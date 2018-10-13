@@ -1,0 +1,13 @@
+This repo classify messages as spam and ham
+Library Used:
+Flask
+NLTK
+Pandas
+
+Env:
+Python 2.7
+
+Algo Used:
+Naive Bayes Classifier
+
+Created Flask app which accepts mail or message as input and classify it as spam or ham
